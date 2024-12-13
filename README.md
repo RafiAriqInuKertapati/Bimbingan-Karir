@@ -1,7 +1,7 @@
 # Login admin
 ```
 username    : admin
-password    : adminselalubenar
+password    : admin
 ```
 
 # Login dokter
